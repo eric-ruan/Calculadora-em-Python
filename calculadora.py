@@ -1,6 +1,7 @@
 '''Essa calculadora foi feita por mim no 1º termo da faculdade
 onde eu precisava resolver mais rapidamente os calculos de determinantes de matrizes
-que eram muitos, então para acrescentar nela eu add os outros calculos tambem'''
+que eram em grandes quantidades, então para ela não ficar somente com isso eu add os outros calculos tambem, ela é simples, não tem design
+pois foi só para resolver meus problemas de matrizes kkkk'''
 
 import numpy
 resposta = 's'
